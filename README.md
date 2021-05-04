@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<h3>Top Languages</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KFSPC8&theme=monokai&border_radius=20&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css&hide_title=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+![KFSPC8's github stats](https://github-readme-stats.vercel.app/api?username=KFSPC8&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KFSPC8&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KFSPC8/KFSPC8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
